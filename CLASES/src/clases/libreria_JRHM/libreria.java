@@ -11,7 +11,20 @@ import java.util.Scanner;
  */
 public class libreria {
     
+//para llamar al metodo Ordenamiento deben de colocar lo siguiente:
+/*
+    public static void main(String[] args)
+    {
+        int[] arreglo={4, 9, 2, 1, 6, 3, 8};
+        libreria r = new libreria();
+        r.Ordenamiento(arreglo); ->aquí mandas tu arreglo al metodo
     
+Aquí lo imprimes -> for(int i=0; i<arreglo.length; i++)
+        {
+            System.out.print(arreglo[i]);
+        }
+    }
+    */    
 /////////////////ORDENAR-ARREGLO-POR-METODO-QUICKSORT-(EL MEJOR)/////////////////////////////////////////////
        public void Ordenamiento(int[] array)
         {   
@@ -152,7 +165,7 @@ public class libreria {
         
         
 ///////////////////BUSQUEDA-DE-LA-POSICION-DE-UN-NUMERO-EN-UN-ARREGLO_BIDIMENCIONAL////////////////////////////////////////////////////////////////
-        public void busquedaBidimiencioanl(int[][] m)    
+        public void busquedaBidimiencional(int[][] m)    
         {
             Scanner sc;
             sc=new Scanner(System.in);
