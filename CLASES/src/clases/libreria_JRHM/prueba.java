@@ -20,7 +20,7 @@ public class prueba {
         sc=new Scanner(System.in);
         String entrada;
 //////////////////METODO-ORDENAMIENTO//////////////////////////////////////////
-        /* int[] arreglo={4, 9, 2, 1, 6, 3, 8};
+       /* int[] arreglo={4, 9, 2, 1, 6, 3, 8};
        
         r.Ordenamiento(arreglo); 
     
@@ -32,7 +32,7 @@ for(int i=0; i<arreglo.length; i++)
         
         
 ///////////////////METODO-SUMA-MATRICES//////////////////////////////////////////
-        /*System.out.println("Ingresa el numero de filas de la primera matriz");
+      /* System.out.println("Ingresa el numero de filas de la primera matriz");
         int fila1=sc.nextInt();
         System.out.println("Ingresa el numero de columnas de la primera matriz");
         int columna1=sc.nextInt();
@@ -68,7 +68,7 @@ for(int i=0; i<arreglo.length; i++)
         
         
 ///////////////////METODO-RESTA-DE-MATRICES////////////////////////////////////////////
-       /* System.out.println("Ingresa el numero de filas de la primera matriz");
+       /*System.out.println("Ingresa el numero de filas de la primera matriz");
         int fila1=sc.nextInt();
         System.out.println("Ingresa el numero de columnas de la primera matriz");
         int columna1=sc.nextInt();
@@ -105,7 +105,7 @@ for(int i=0; i<arreglo.length; i++)
        
        
 /////////////////////////METODO-MULTIPLICACION-DE-MATRICES/////////////////////////////////////////////////////////
-       /* System.out.println("Ingresa el numero de filas de la primera matriz");
+      /*System.out.println("Ingresa el numero de filas de la primera matriz");
         int fila1=sc.nextInt();
         System.out.println("Ingresa el numero de columnas de la primera matriz");
         int columna1=sc.nextInt();
@@ -137,11 +137,11 @@ for(int i=0; i<arreglo.length; i++)
         m3=r.multiplacionMatrices(m1, m2);
         r.imprimirMatriz(m1);
         r.imprimirMatriz(m2);
-        r.imprimirMatriz(m3);*/
-       
+        r.imprimirMatriz(m3);
+       */
        
 /////////////////////METODO-BUSQUEDA.ARREGLO////////////////////////////////////////////////////
-       /* System.out.println("Ingresa el tamaño del arreglo");
+    /*  System.out.println("Ingresa el tamaño del arreglo");
         int a=sc.nextInt();
         int[] m=new int[a];
         System.out.println("Ingresa los datos que almacenara el arreglo");
@@ -154,7 +154,7 @@ for(int i=0; i<arreglo.length; i++)
        
        
 //////////////////////////METODO-BUSQUEDA.MATRIZ///////////////////////////////////////////////////
-       /*  System.out.println("Ingresa el numero de filas de la matriz");
+       /* System.out.println("Ingresa el numero de filas de la matriz");
         int fila2=sc.nextInt();
         System.out.println("Ingresa el numero de columnas de la matriz");
         int columna2=sc.nextInt();
@@ -174,7 +174,7 @@ for(int i=0; i<arreglo.length; i++)
        
        
 ////////////////////METODO-REPETICION.NUMEROS/////////////////////////////////////////////////////////
-        /*System.out.println("Ingresa el numero de filas de la matriz");
+       /* System.out.println("Ingresa el numero de filas de la matriz");
         int fila2=sc.nextInt();
         System.out.println("Ingresa el numero de columnas de la matriz");
         int columna2=sc.nextInt();
@@ -196,7 +196,7 @@ for(int i=0; i<arreglo.length; i++)
         
         
 ///////////////////////METODO-MODA/////////////////////////////////////////////////////////////////////////
-        /*System.out.println("Ingresa el tamaño del arreglo");
+       /* System.out.println("Ingresa el tamaño del arreglo");
         int a=sc.nextInt();
         int[] m=new int[a];
         System.out.println("Ingresa los datos que almacenara el arreglo");
@@ -208,7 +208,7 @@ for(int i=0; i<arreglo.length; i++)
         
         
 //////////////////////////METODO-ELIMINAR.DATOS.REPETIDOS////////////////////////////////////////////////////////     
-       /* System.out.println("Ingresa el tamaño del arreglo");
+        /*System.out.println("Ingresa el tamaño del arreglo");
         int a=sc.nextInt();
         String[] m=new String[a];
         System.out.println("Ingresa los datos que almacenara el arreglo");
@@ -225,7 +225,7 @@ for(int i=0; i<arreglo.length; i++)
        
        
 ///////////////////////METODO-MATRIZ.ESPIRAL////////////////////////////////////////////////////////////////////////
-        /*System.out.println("Ingresa el numero de filas para la matriz");
+       /* System.out.println("Ingresa el numero de filas para la matriz");
         int a=sc.nextInt();
         System.out.println("Ingresa el numero de columnas para la matriz");
         int b=sc.nextInt();
