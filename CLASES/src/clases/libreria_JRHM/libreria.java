@@ -164,8 +164,8 @@ Aquí lo imprimes -> for(int i=0; i<arreglo.length; i++)
         }
         
         
-///////////////////BUSQUEDA-DE-LA-POSICION-DE-UN-NUMERO-EN-UN-ARREGLO_BIDIMENCIONAL////////////////////////////////////////////////////////////////
-        public void busquedaBidimiencional(int[][] m)    
+///////////////////BUSQUEDA-DE-LA-POSICION-DE-UN-NUMERO-EN-UNA-MATRIZ////////////////////////////////////////////////////////////////
+        public void busquedaMatriz(int[][] m)    
         {
             Scanner sc;
             sc=new Scanner(System.in);
